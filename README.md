@@ -1,4 +1,6 @@
 # Amazon-Price-Tracker
+
+
  
     Step 1: Run the browser
     Step 2: Go to Amazon
@@ -8,6 +10,10 @@
             get ALL links)
     Step 6: Loop through each link; get data store to memory
     Step 7: Create report based on data
+    
+    
+    https://github.com/NataliaHaronitou/Amazon-Price-Tracker/blob/main/simple_tracker.py
+    
 ____________________________________________________________________________________________________________________________________________________________________
 
 
